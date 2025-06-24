@@ -1,1 +1,50 @@
+# 🛡️ BODIUM TOYS – Security Audit Report
+
+Welcome to the Security Audit Report homepage for Botium Toys. This section of the cybersecurity portfolio documents the current state of technical controls, compliance readiness, and strategic recommendations following a detailed risk assessment.
+
+---
+
+## 🧭 Purpose
+
+This report outlines the findings from a simulated security assessment conducted as part of the Google Cybersecurity Certificate program. The goal is to demonstrate practical application of industry-aligned frameworks and recommend improvements to strengthen Botium Toys’ security posture.
+
+---
+
+## 📄 Contents
+
+- [Assessment Summary](BODIUM Assessment Recommendations)  
+  A high-level overview of findings, recommendations, and justifications for proposed control enhancements.
+
+- [Controls & Compliance Checklist](./Botium_Security_Checklist.md)  
+  A structured, actionable list of technical controls and regulatory best practices including PCI DSS, GDPR, and SOC 1/2.
+
+- [Supporting Documentation](#) *(Add links to additional artifacts as needed)*  
+  - Network diagrams  
+  - Control categories reference  
+  - Incident response templates  
+  - Risk assessment report  
+
+---
+
+## 🧠 Key Areas Evaluated
+
+- Principle of Least Privilege  
+- Intrusion Detection System (IDS)  
+- Password Management & Encryption  
+- Disaster Recovery Planning  
+- GDPR, PCI DSS, SOC 1 & 2 Alignment  
+- Monitoring Legacy Systems  
+
+---
+
+## 📬 Contact & Feedback
+
+Have questions or need clarification on this report? Reach out via email or leave a comment in the repository.
+
+📧 cboylesthebest@gmail.com
+🔗 https://github.com/cboylesthebest/supreme-system
+
+---
+
+> *Note: This report was developed for educational purposes under the Google Cybersecurity Certificate program. No proprietary or real-world company data is included.*
 

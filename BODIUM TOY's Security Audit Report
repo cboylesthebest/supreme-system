@@ -1,54 +1,39 @@
 # 🛡️ BODIUM TOYS – Security Audit Report
 
-Welcome to the Security Audit Report homepage for Botium Toys. This section of the cybersecurity portfolio documents the current state of technical controls, compliance readiness, and strategic recommendations following a detailed risk assessment.
+Welcome to Botium Toys' Security Audit Report, part of my Cybersecurity Portfolio developed through the Google Cybersecurity Certificate program.
+
+This report captures a simulated risk assessment, compliance checklist, and strategic recommendations to strengthen enterprise-level security posture.
 
 ---
 
-## 🧭 Purpose
+## 📁 Project Contents
 
-This report outlines the findings from a simulated security assessment conducted as part of the Google Cybersecurity Certificate program. The goal is to demonstrate practical application of industry-aligned frameworks and recommend improvements to strengthen Botium Toys’ security posture.
+- ✅ [Assessment & Recommendations](./BODIUM%20Assessment%20Recommendations.md)  
+  A detailed summary of audit findings, security control enhancements, and compliance recommendations.
 
----
-
-## 📄 Contents
-
-- [Assessment Summary]
-- [Assessment Summary](./Assessment_Summary.md)
-- [Checklist](./BODIUM_Security_Checklist.md)
-
-
-  A high-level overview of findings, recommendations, and justifications for proposed control enhancements.
-
-- [Controls & Compliance Checklist](./Botium_Security_Checklist.md)  
-  A structured, actionable list of technical controls and regulatory best practices including PCI DSS, GDPR, and SOC 1/2.
-
-- [Supporting Documentation](#) *(Add links to additional artifacts as needed)*  
-  - Network diagrams  
-  - Control categories reference  
-  - Incident response templates  
-  - Risk assessment report  
+- ✅ [Controls & Compliance Checklist](./Botium_Security_Checklist.md)  
+  A structured, interactive checklist covering PCI DSS, GDPR, SOC 1 & 2, and core technical controls.
 
 ---
 
-## 🧠 Key Areas Evaluated
+## 🔍 Key Areas Covered
 
-- Principle of Least Privilege  
-- Intrusion Detection System (IDS)  
-- Password Management & Encryption  
-- Disaster Recovery Planning  
-- GDPR, PCI DSS, SOC 1 & 2 Alignment  
-- Monitoring Legacy Systems  
-
----
-
-## 📬 Contact & Feedback
-
-Have questions or need clarification on this report? Reach out via email or leave a comment in the repository.
-
-📧 cboylesthebest@gmail.com
-🔗 https://github.com/cboylesthebest/supreme-system
+- Intrusion Detection System (IDS)
+- Least Privilege & Access Control
+- Disaster Recovery Planning
+- Password Management & Encryption
+- GDPR & PCI DSS Compliance
+- SOC Type 1 and 2 Controls
+- Legacy System Monitoring
 
 ---
 
-> *Note: This report was developed for educational purposes under the Google Cybersecurity Certificate program. No proprietary or real-world company data is included.*
+## 📌 About This Project
 
+This assessment was created for educational purposes. All data and scenarios are fictional and used to demonstrate cybersecurity best practices.
+
+> 🔗 View the full project repository: [GitHub Repo](https://github.com/cboylesthebest/supreme-system)
+
+---
+
+*Last updated: June 2025 | Author: cboylesthebest*

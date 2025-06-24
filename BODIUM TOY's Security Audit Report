@@ -13,7 +13,9 @@ This report outlines the findings from a simulated security assessment conducted
 ## 📄 Contents
 
 - [Assessment Summary]
-[Link Text](https://tinyurl.com/BODIUM)
+- [Assessment Summary](./Assessment_Summary.md)
+- [Checklist](./BODIUM_Security_Checklist.md)
+
 
   A high-level overview of findings, recommendations, and justifications for proposed control enhancements.
 

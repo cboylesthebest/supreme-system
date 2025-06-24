@@ -14,6 +14,23 @@ I'm a passionate cybersecurity enthusiast with hands-on experience identifying v
 
 ## 📁 Featured Projects
 
+***1. Drafting a professional statement
+
+***2. Conducting a security audit
+
+***3. Analyzing network structure and security
+
+***4. Using Linux commands to manage file permissions
+
+***5. Applying filters to SQL queries
+
+***6. Identifying vulnerabilities for a small business
+
+***7. Documenting incidents with an incident handler’s journal 
+
+***8. Importing and parsing a text file in a security-related scenario
+
+Creating or revising a resume
 ### 1. Security Audit Report
 **Description**: Conducted a detailed audit for a simulated business environment.  
 **Skills**: Risk assessment, asset identification, control recommendations.  

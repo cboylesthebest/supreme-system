@@ -9,7 +9,7 @@ This report captures a simulated risk assessment, compliance checklist, and stra
 ## 📁 Project Contents
 
 - ✅ [Assessment & Recommendations
-## [📋 BODIUM Assessment #1]([https://github.com/cboylesthebest/supreme-system/blob/main/BODIUM%20Assessment%20Recommendations](https://github.com/cboylesthebest/supreme-system/blob/main/BODIUM%20Assessment%20Recommendations.md)
+## [📋 BODIUM Assessment #1](https://github.com/cboylesthebest/supreme-system/blob/main/BODIUM%20Assessment%20Recommendations](https://github.com/cboylesthebest/supreme-system/blob/main/BODIUM%20Assessment%20Recommendations.md)
 
 
 

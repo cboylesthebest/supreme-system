@@ -39,7 +39,7 @@ I'm a passionate cybersecurity enthusiast with hands-on experience identifying v
 ### 2. Network Structure Analysis
 **Description**: Mapped and analyzed a sample organization’s network.  
 **Skills**: Network topology, segmentation, traffic flow.  
-[View Diagram](./network-analysis.png)
+[View Diagram](https://github.com/cboylesthebest/supreme-system/blob/main/Bodium%20Network%20Structure%20Analysis.png)
 
 ### 3. Linux File Permissions Lab
 **Description**: Used Linux terminal commands to assign and verify file permissions.  

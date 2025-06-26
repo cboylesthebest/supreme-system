@@ -67,8 +67,8 @@ Creating or revising a resume
 ## 📫 Contact
 
 Feel free to connect or ask about my work!  
-📧 yourname@email.com  
-🌐 [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+📧 cboylesthebest@gmail.com
+🌐 [LinkedIn Profile]([https://www.linkedin.com/in/calvinboyles)
 
 ---
 

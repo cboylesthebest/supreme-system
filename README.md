@@ -30,7 +30,7 @@ I'm a passionate cybersecurity enthusiast with hands-on experience identifying v
 
 ***8. Importing and parsing a text file in a security-related scenario
 
-Creating or revising a resume
+
 ### 1. Security Audit Report
 **Description**: Conducted a detailed audit for a simulated business environment.  
 **Skills**: Risk assessment, asset identification, control recommendations.  

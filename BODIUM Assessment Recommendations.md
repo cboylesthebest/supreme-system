@@ -1,4 +1,4 @@
-## 📋 BODIUM Assessment #1
+## 📋 BODIUM Assessment Recommendations
 
 Based on my initial assessment, I strongly recommend implementing an **Intrusion Detection System (IDS)**.
 Given that you already have a protocol in place to notify end users following a breach, having an IDS will 

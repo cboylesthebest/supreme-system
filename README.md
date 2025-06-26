@@ -68,7 +68,7 @@ Creating or revising a resume
 
 Feel free to connect or ask about my work!  
 📧 cboylesthebest@gmail.com
-🌐 [LinkedIn GitHub](https://www.linkedin.com/in/calvinboyles)
+🌐 [Visit LinkedIn](https://www.linkedin.com/in/calvinboyles)
 
 
 ---

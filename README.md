@@ -48,8 +48,8 @@ I'm a passionate cybersecurity enthusiast with hands-on experience identifying v
 
 ### 4. Red Hat Linux (RHCE) Lab
 
-**Goal: Create, view, and edit text files from command output or in a text editor.
-**Objective: 
+**Description**: Create, view, and edit text files from command output or in a text editor.
+**Skills**: 
 ***1. Save output or errors to a file with shell redirection, and process command output through multiple command-line programs with pipes.
 
 ***2. Create and edit text files from the command line with the vim editor.

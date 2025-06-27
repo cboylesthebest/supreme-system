@@ -49,7 +49,7 @@ I'm a passionate cybersecurity enthusiast with hands-on experience identifying v
 ---
 
 ## 📄 Resume
-[Download PDF](./My_Resume.pdf)
+[Download PDF]([./My_Resume.pdf](https://github.com/cboylesthebest/supreme-system/blob/main/cv2.pdf))
 
 ---
 

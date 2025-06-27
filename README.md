@@ -46,6 +46,14 @@ I'm a passionate cybersecurity enthusiast with hands-on experience identifying v
 **Skills**: chmod, chown, ls -l  
 [View Lab Summary](./linux-permissions-lab.md)
 
+### 4. Red Hat Linux (RHCE) Lab
+
+*Goal: Create, view, and edit text files from command output or in a text editor.
+*Objective: 
+          1. Save output or errors to a file with shell redirection, and process command output through multiple command-line programs with pipes.
+          2.Create and edit text files from the command line with the vim editor.
+          3.Set shell variables to run commands, and edit Bash startup scripts to set shell and environment variables to modify the behavior of the shell and programs that are run from the shell.
+[View Lab](https://github.com/cboylesthebest/supreme-system/blob/main/cv2.pdf](https://youtu.be/gzVz13X-QK4?si=mBlsAs_6JaARIns0)
 ---
 
 ## 📄 Resume

@@ -75,7 +75,7 @@ I'm a passionate cybersecurity enthusiast with hands-on experience identifying v
 
 Feel free to connect or ask about my work!  
 📧 cboylesthebest@gmail.com
-🌐 [Visit LinkedIn](https://www.linkedin.com/in/calvinboyles)
+🌐 [Visit LinkedIn](linkedin.com/in/calvinboyles)
 
 
 ---

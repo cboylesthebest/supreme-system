@@ -46,7 +46,7 @@ I'm a passionate cybersecurity enthusiast with hands-on experience identifying v
 **Skills**: chmod, chown, ls -l  
 [View Lab Summary](./linux-permissions-lab.md)
 
-### 4. Red Hat Linux (RHCE) Lab
+### 4. Red Hat Linux RHCE Lab
 **Description**: Create, view, and edit text files from command output or in a text editor.
 **Skills**: 
 **1. Save output or errors to a file with shell redirection, and process command output through multiple command-line programs with pipes.

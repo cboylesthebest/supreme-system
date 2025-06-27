@@ -51,6 +51,11 @@ I'm a passionate cybersecurity enthusiast with hands-on experience identifying v
 **Skills**: Save output or errors to a file with shell redirection, and process command output through multiple command-line programs with pipes. Create and edit text files from the command line with the vim editor. Create and edit text files from the command line with the vim editor. Create and edit text files from the command line with the vim editor. Set shell variables to run commands, and edit Bash startup scripts to set shell and environment variables to modify the behavior of the shell and programs that are run from the shell.
 [View Linux Lab](https://youtu.be/gzVz13X-QK4?si=mBlsAs_6JaARIns0)
 
+### 3. Linux File Permissions Lab
+**Description**: Used Linux terminal commands to assign and verify file permissions.  
+**Skills**: chmod, chown, ls -l  
+[View Lab Summary](./linux-permissions-lab.md)
+
 ---
 
 ## 📄 Resume

@@ -56,7 +56,7 @@ I'm a passionate cybersecurity enthusiast with hands-on experience identifying v
 ---
 
 ## 📄Calvin Boyles Resume
-[Read Resume](https://insert resume url)
+[Read Resume](https://github.com/cboylesthebest/supreme-system/blob/main/CB_CV_2025.md)
 # Calvin Boyles
 
 **Greater Boston**  
